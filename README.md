@@ -8,5 +8,6 @@ Out of the json and csv version available in the link, download the csv version 
 Detailed EDA and the experimental results are provided in the Final Code.ipynb
 
 ## Important note:
-This is a private gitrepo and the link with which this repo is accessed via gitfront, to view the contents of the ipynb file , select the ipynb and click "Raw" to download the ipynb code and run the project
+This is a private gitrepo and the link with which this repo is accessed via gitfront.
+To view the contents of the ipynb file , select the ipynb and click "Raw" to download the ipynb code and run the project
 
